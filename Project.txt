@@ -1,0 +1,37 @@
+Create a bible quiz app. The app will contain 5 questions with
+4 answer options each. The app will print if an answer is
+correct or wrong as the user selects an answer. after
+going through all the questions, the app will print the total
+answer and user's grade. 
+
+Here are the questions in the bible quiz app:
+
+1. What is the first book of the bible?
+A. Jeremiah
+B. Revelations
+C. Genesis
+D. Psalms
+
+2. How many days did it take God to create the world?
+A. Two 
+B. Seven
+C. Five
+D. Four
+
+3. Who killed Goliath?
+A. David
+B. Saul
+C. Adam
+D. Eve
+
+4. How many commandments did Moses receive?
+A. Twelve
+B. Eleven
+C. Five
+D. Ten
+
+5. How many disciples did Jesus have?
+A. Twelve
+B. Eleven
+C. Ten
+D. Nine
